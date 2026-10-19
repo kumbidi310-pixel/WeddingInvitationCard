@@ -1,0 +1,7 @@
+{
+  "couple": {"groom": "Rubil TR", "bride": "Ruby Anto", "groomParents": "Son of Mr. Roy Thomas & Mrs. Sheeba Roy", "brideParents": "Daughter of Mr. Anto A.C & Mrs. Laly Anto"},
+  "wedding": {"date": "2026-11-21", "ceremonyTime": "4:00 PM", "ceremonyVenue": "St. Joseph Church, Chundakkara", "receptionTime": "6:00 PM", "receptionVenue": "St. Joseph Church Auditorium", "timezone": "Asia/Kolkata", "mapsUrl": "https://maps.app.goo.gl/p78n4sC2V8oVoGp36?g_st=aw"},
+  "closingPage": {"message": "WE CAN’T WAIT TO CELEBRATE WITH YOU", "date": "21 · 10 · 2026", "signature": "Roshna"},
+  "assets": {"gallery": ["assets/photo-1.jpg", "assets/photo-2.jpg", "assets/photo-3.jpg"], "music": "assets/wedding-song.mp3"},
+  "guestbook": {"mode": "local-demo", "maxNameLength": 60, "maxNoteLength": 500}
+}
